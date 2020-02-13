@@ -2,6 +2,6 @@ class GitDemo {
 
 public static void main(String args[]) {
 
-sysout("Hello Git Demo");
+System.out.println("Hello Git Demo");
  }
 }
