@@ -1,0 +1,7 @@
+class GitDemo {
+
+main() {
+
+sysout("Hello Git Demo");
+ }
+}
