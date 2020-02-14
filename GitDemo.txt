@@ -1,7 +1,9 @@
 class GitDemo {
 
-public void myMethod(String str123) {
-	if(condition){
+void resolvedBug() {
+}
+public void myMethod(String str123, String str345) {
+	if(condition || condition2){
 		for() {
 sysout("created new branch - bug123");
 		}
