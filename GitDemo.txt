@@ -1,7 +1,7 @@
 class GitDemo {
 
-voif myMethod() {
-	if(){
+public void myMethod(String str123) {
+	if(condition){
 		for() {
 sysout("created new branch - bug123");
 		}
