@@ -3,6 +3,7 @@ class GitDemo {
 voif myMethod() {
 	if(){
 		for() {
+sysout("created new branch - bug123");
 		}
 	}
 }
