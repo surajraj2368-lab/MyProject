@@ -12,7 +12,7 @@ sysout("created new branch - bug123");
 public static void main(String args[]) {
 
 changed1();
-
+changed2();
 
 
 System.out.println("Hello Git Demo test");
