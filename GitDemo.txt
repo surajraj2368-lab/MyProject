@@ -13,6 +13,7 @@ public static void main(String args[]) {
 
 changes1;
 changes2;
+changes3;
 
 System.out.println("Hello Git Demo test");
  }
